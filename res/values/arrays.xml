@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="theme_names_lv">
+        <item>Krüger&amp;Matz1</item>
+        <item>Krüger&amp;Matz2</item>
+        <item>Krüger&amp;Matz3</item>
+        <item>Krüger&amp;Matz4</item>
+        <item>Krüger&amp;Matz5</item>
+    </string-array>
+    <string-array name="theme_icon_lv" translatable="false">
+        <item>@drawable/icon1</item>
+        <item>@drawable/icon2</item>
+        <item>@drawable/icon3</item>
+        <item>@drawable/icon4</item>
+        <item>@drawable/icon5</item>
+    </string-array>
+    <string-array name="theme_names_gv">
+        <item>Krüger&amp;Matz1</item>
+        <item>Krüger&amp;Matz2</item>
+        <item>Krüger&amp;Matz3</item>
+        <item>Krüger&amp;Matz4</item>
+        <item>Krüger&amp;Matz5</item>
+    </string-array>
+    <string-array name="theme_icon_gv" translatable="false">
+        <item>@drawable/theme1</item>
+        <item>@drawable/theme2</item>
+        <item>@drawable/theme3</item>
+        <item>@drawable/theme4</item>
+        <item>@drawable/theme5</item>
+    </string-array>
+
+</resources>

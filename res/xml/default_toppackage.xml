@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+     com.application.weburl.MainActivity  com.application.weburl
+     com.application.huayingappstore.MainActivity com.application.huayingappstore
+     com.application.protecteyesight.MainActivity
+     com.application.soscallforhelp.MainActivity
+         <app
+        launcher:topPackageName="com.trueease.sparklehome"
+        launcher:topClassName="com.trueease.sparklehome.WelcomeActivity"
+        launcher:topOrder="3"
+     />
+-->
+
+
+<toppackages xmlns:launcher="http://schemas.android.com/apk/res/com.android.launcher3">
+<!--
+    <app
+        launcher:topPackageName="com.application.actionparentspage"
+        launcher:topClassName="com.application.actionparentspage.MainActivity"
+        launcher:topOrder="0"
+     />
+
+    <app
+        launcher:topPackageName="com.application.actionstudentpage"
+        launcher:topClassName="com.application.actionstudentpage.MainActivity"
+        launcher:topOrder="1"
+     />
+-->
+     <app
+        launcher:topPackageName="com.application.parentsmanage"
+        launcher:topClassName="com.application.parentsmanage.FirstActivity"
+        launcher:topOrder="0"
+     />
+   <!--  
+    <app
+        launcher:topPackageName="com.application.weburl"
+        launcher:topClassName="com.application.weburl.MainActivity"
+        launcher:topOrder="1"
+     />
+     -->
+     <!--
+    <app
+        launcher:topPackageName="com.application.huayingappstore"
+        launcher:topClassName="com.application.huayingappstore.MainActivity"
+        launcher:topOrder="1"
+     />
+     -->
+     <!--
+         <app
+        launcher:topPackageName="com.application.protecteyesight"
+        launcher:topClassName="com.application.protecteyesight.MainActivity"
+        launcher:topOrder="3"
+     />
+     -->
+     <app
+        launcher:topPackageName="com.clovsoft.huayinghealth.student"
+        launcher:topClassName="com.clovsoft.smartclass.student.MainActivity"
+        launcher:topOrder="1"
+     />
+      <app
+        launcher:topPackageName="com.application.classschedule"
+        launcher:topClassName="com.application.classschedule.MainActivity"
+        launcher:topOrder="2"
+     />
+     <app
+        launcher:topPackageName="com.application.soscallforhelp"
+        launcher:topClassName="com.application.soscallforhelp.MainActivity"
+        launcher:topOrder="3"
+     />
+</toppackages>
+
